@@ -1,10 +1,9 @@
 # Barcodes for Canva
 
-## Helpful Resources
+## Get Support
 
-- [Get Support](./support)
-- [Terms of Service](./terms-of-service)
-- [Privacy Policy](./policy)
+Support requests can be submitted via [this contact form](https://forms.gle/5yCaxkDSnZAa7XYYA).
+
 
 By using the Barcodes app, you agree to its [Terms of Service](./terms-of-service) and [Privacy Policy](./privacy).
 
