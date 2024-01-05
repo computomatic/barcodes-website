@@ -1,4 +1,4 @@
-# Barcodes app for Canva
+# Barcodes for Canva
 
 ## Terms of Service
 
